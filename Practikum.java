@@ -1,1 +1,2 @@
-config
+public static void main {
+}
